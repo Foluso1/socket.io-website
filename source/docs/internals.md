@@ -48,7 +48,7 @@ It uses the [engine.io-parser](https://github.com/socketio/engine.io-parser) to 
 
 This is the default Socket.IO in-memory adapter class.
 
-This module is not intended for end-user usage, but can be used as an interface to inherit from from other adapters you might want to build, like [socket.io-redis](https://github.com/socketio/socket.io-redis).
+This module is not intended for end-user usage, but can be used as an interface to inherit from other adapters you might want to build, like [socket.io-redis](https://github.com/socketio/socket.io-redis).
 
 ## socket.io-redis
 
